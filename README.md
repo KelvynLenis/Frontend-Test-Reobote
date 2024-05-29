@@ -3,7 +3,7 @@
 ### Faça uma copia local:
 
 ```
-  git clone 
+  git clone https://github.com/KelvynLenis/Frontend-Test-Reobote.git
 ```
 
 ### Instale as dependencias:
