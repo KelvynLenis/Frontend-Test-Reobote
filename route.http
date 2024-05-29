@@ -1,0 +1,10 @@
+POST https://teste.reobote.tec.br/api/register
+Content-Type: application/json
+
+{
+  "name": "john doe",
+  "email": "peroero@mail.com",
+  "password": "PassWord12345",
+  "password_confirmation": "PassWord12345",
+  "persistent": true
+}
